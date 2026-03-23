@@ -27,4 +27,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://veeam.readthedocs.io/en/latest/'
+html_baseurl = 'https://veeamai.readthedocs.io/en/latest/'
